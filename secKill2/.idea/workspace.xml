@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="499bd770-899b-4a7a-bf57-b186e4bc297b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\repository" />
+        <option name="mavenHome" value="D:/tools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bsUmg4pNtoHW3kMKNNunxN6vJ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../secKill3_rabbitmq" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\邱\Desktop\secKill2\src\main\resources" />
+      <recent name="C:\Users\邱\Desktop\secKill\src\main\java\top\tinn\miaosha\redis" />
+      <recent name="C:\Users\邱\Desktop\secKill\src\main\java\top\tinn" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.tinn.miaosha.vo" />
+      <recent name="top.tinn.miaosha.controller" />
+      <recent name="top.tinn.miaosha.util" />
+      <recent name="top.tinn.miaosha.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\邱\Desktop\secKill2\src\main\resources\static" />
+      <recent name="C:\Users\邱\Desktop\secKill2\src\main\resources" />
+      <recent name="C:\Users\邱\Desktop\secKill2\src\main\resources\static\js" />
+      <recent name="C:\Users\邱\Desktop\secKill2\src\main\resources\templates" />
+      <recent name="C:\Users\邱\Desktop\secKill\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication (1)">
+    <configuration name="UserUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.tinn.miaosha.util.UserUtil" />
+      <module name="secKill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.tinn.miaosha.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="secKill2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.tinn.miaosha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.tinn.miaosha.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="secKill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.tinn.miaosha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.tinn.miaosha.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication (1)" />
+        <item itemvalue="Application.UserUtil" />
+        <item itemvalue="Spring Boot.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="499bd770-899b-4a7a-bf57-b186e4bc297b" name="Default Changelist" comment="" />
+      <created>1589420454058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589420454058</updated>
+      <workItem from="1589420457688" duration="668000" />
+      <workItem from="1589421535035" duration="20244000" />
+      <workItem from="1589459483437" duration="2072000" />
+      <workItem from="1589462725306" duration="410000" />
+      <workItem from="1589463179639" duration="2229000" />
+      <workItem from="1589503830482" duration="2398000" />
+      <workItem from="1589506981077" duration="6057000" />
+      <workItem from="1589521064083" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1245" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1589509855615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589509855615" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1589521071342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589521071342" />
+    <state width="914" height="344" key="GridCell.Tab.0.bottom" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.0.center" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.0.left" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.0.right" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.1.center" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.1.left" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.1.right" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.2.bottom" timestamp="1589513401564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401564" />
+    <state width="914" height="344" key="GridCell.Tab.2.center" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.2.left" timestamp="1589513401563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401563" />
+    <state width="914" height="344" key="GridCell.Tab.2.right" timestamp="1589513401564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589513401564" />
+    <state x="173" y="435" key="NewModule_or_Project.wizard" timestamp="1589463028093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="173" y="435" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589463028093" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589463282360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589463282360" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589521063571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589521063571" />
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589511790121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589511790121" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/top/tinn/miaosha/controller/GoodsController.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/top/tinn/miaosha/controller/OrderController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/top/tinn/miaosha/controller/MiaoshaController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
